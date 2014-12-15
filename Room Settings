@@ -151,7 +151,7 @@
     },
     "images": {
         "background": "",
-        "booth": "",
+        "booth": "http://puu.sh/dv1RX.png",
         "playback": "http://puu.sh/duexb.png",
         "icons": {
             "residentdj" : "http://welovekpop.18865-301876.srv24.sysproserver.de/wp-content/uploads/2014/09/disk.png",
