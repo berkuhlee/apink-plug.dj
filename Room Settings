@@ -104,6 +104,9 @@
             "#grab .bottom, #grab .selected":{
             "background":"#ff9ee2"
             },
+            ".icon":{
+            "background":"url('')"
+            },
             "@keyframes fadein":{
                 "from {opacity":"0;}",
                 "to {opacity":"1;}"
