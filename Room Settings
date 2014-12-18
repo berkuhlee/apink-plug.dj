@@ -101,6 +101,9 @@
                 "-o-animation":"fadein 0.25s",
                 "animation":"fadein 0.25s"
             },
+            "#grab .bottom, #grab .selected":{
+            "background":"#ff9ee2"
+            },
             "@keyframes fadein":{
                 "from {opacity":"0;}",
                 "to {opacity":"1;}"
@@ -150,7 +153,7 @@
         }
     },
     "images": {
-        "background": "http://puu.sh/dw2nX.png",
+        "background": "",
         "booth": "http://puu.sh/dv2Cm.png",
         "playback": "http://puu.sh/duexb.png",
         "icons": {
